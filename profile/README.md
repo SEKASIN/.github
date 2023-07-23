@@ -3,6 +3,9 @@
 > This Github organization exists to store and document assets created for SEKASIN Gaming.
 
 🙋‍♀️ SEKASIN Gaming - Finland's largest professionally moderated youth-oriented online community operating on Discord.
+
 🌈 Contribution - Case by case basis, approved by Server Administrator and General Administration.
+
 👩‍💻 Salary - None, this is voluntary work.
+
 🧙 Current Server Administrator: TenDRILLL
