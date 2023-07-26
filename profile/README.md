@@ -8,4 +8,4 @@
 
 👩‍💻 Salary - None, this is voluntary work.
 
-🧙 Current Server Administrator: TenDRILLL
+🧙 Current Server Administrator: [TenDRILLL](https://github.com/TenDRILLL)
